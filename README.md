@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MicheleTsigab
 - 👀 I’m interested in programming, data science, and game development
-- 🌱 I’m currently learning Django, intermediate algorithims, linear algebra, statistical inference
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  Deep Learning, Data analysis, linear algebra, statistical inference
+
+- 📫 How to reach me ...micheletsigab@gmail.com
 
 <!---
 MicheleTsigab/MicheleTsigab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
