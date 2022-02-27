@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MicheleTsigab
-- 👀 I’m interested in programming, data science, and game development
+- 👀 I’m interested in programming, web development, and business analysis.
 - 🌱 I’m currently learning  Deep Learning, Data analysis, linear algebra, statistical inference
 
 - 📫 How to reach me ...micheletsigab@gmail.com
